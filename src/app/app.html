@@ -1,0 +1,13 @@
+<div class="app-layout" style="display: flex; min-height: 100vh;">
+  <nav class="sidebar" style="width: 200px; padding: 20px; background: #333; color: white;">
+    <h3 style="margin-top:0">Ng Task Manager</h3>
+    <a routerLink="/dashboard" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" style="display:block; color: white; margin-bottom: 10px; text-decoration: none;">Dashboard</a>
+    <a routerLink="/tasks" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" style="display:block; color: white; margin-bottom: 10px; text-decoration: none;">Tasks</a>
+    <a routerLink="/tasks/new" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" style="display:block; color: white; margin-bottom: 10px; text-decoration: none;">Create Task</a>
+    <a routerLink="/reports" routerLinkActive="active" style="display:block; color: white; margin-bottom: 10px; text-decoration: none;">Reports</a>
+  </nav>
+
+  <main class="content" style="flex: 1; padding: 20px; background: #f4f6f8;">
+    <router-outlet></router-outlet>
+  </main>
+</div>

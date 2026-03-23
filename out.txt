@@ -1,0 +1,27 @@
+﻿
+> task-manager@0.0.0 build
+> ng build
+
+[33mÔØ»[39m Building...
+[32mÔ£ö[39m Building...
+[1mInitial chunk files[22m[2m | [22m[1mNames[22m                [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m
+[32mchunk-H5LFWPBF.js[39m  [2m | [22m[2m-[22m                    [2m | [22m[36m142.40 kB[39m[2m | [22m               [36m41.94 kB[39m
+[32mchunk-T6GDSMHB.js[39m  [2m | [22m[2m-[22m                    [2m | [22m[36m105.81 kB[39m[2m | [22m               [36m26.87 kB[39m
+[32mchunk-VC44LP6U.js[39m  [2m | [22m[2m-[22m                    [2m | [22m [36m28.98 kB[39m[2m | [22m                [36m8.24 kB[39m
+[32mmain-F67FVVU6.js[39m   [2m | [22m[2mmain[22m                 [2m | [22m  [36m3.38 kB[39m[2m | [22m                [36m1.20 kB[39m
+[32mstyles-5INURTSO.css[39m[2m | [22m[2mstyles[22m               [2m | [22m  [36m0 bytes[39m[2m | [22m                [36m0 bytes[39m
+
+[1m [22m                  [2m | [22m[1mInitial total[22m        [2m | [22m[1m280.58 kB[22m[2m | [22m               [1m78.25 kB[22m
+
+[1mLazy chunk files[22m   [2m | [22m[1mNames[22m                [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m
+[32mchunk-LTMCGJWN.js[39m  [2m | [22m[2mtask-form-component[22m  [2m | [22m [36m44.24 kB[39m[2m | [22m                [36m9.66 kB[39m
+[32mchunk-ZLTVVGEH.js[39m  [2m | [22m[2mtask-list-component[22m  [2m | [22m  [36m4.46 kB[39m[2m | [22m                [36m1.68 kB[39m
+[32mchunk-63DX32JF.js[39m  [2m | [22m[2mtask-detail-component[22m[2m | [22m  [36m3.33 kB[39m[2m | [22m                [36m1.27 kB[39m
+[32mchunk-QY4M2ZCG.js[39m  [2m | [22m[2mdashboard-component[22m  [2m | [22m  [36m1.75 kB[39m[2m | [22m              [36m681 bytes[39m
+[32mchunk-QL3KWEBX.js[39m  [2m | [22m[2m-[22m                    [2m | [22m  [36m1.09 kB[39m[2m | [22m              [36m469 bytes[39m
+[32mchunk-YEPITX4L.js[39m  [2m | [22m[2mreports-component[22m    [2m | [22m  [36m1.06 kB[39m[2m | [22m              [36m483 bytes[39m
+
+Application bundle generation complete. [3.516 seconds] - 2026-03-22T21:55:25.656Z
+
+Output location: C:\Users\ADMIN\Desktop\angular workshop\task-manager\dist\task-manager
+

@@ -1,0 +1,5 @@
+﻿:host { display:block; min-height:100vh; background:#f3f4f6; font-family:Segoe UI,system-ui,Arial,sans-serif; }
+.topbar { display:flex; gap:16px; background:#1d4ed8; color:white; padding:12px; }
+.topbar a { color:white; text-decoration:none; font-weight:600; }
+.topbar a.active { text-decoration:underline; }
+.app-main { padding:1rem; max-width:900px; margin:0 auto; }
