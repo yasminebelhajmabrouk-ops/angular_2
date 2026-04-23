@@ -1,14 +1,28 @@
-# angular_2
+# Angular Project (TaskManager)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
+##  Development server
 
-## Development server
-
-To start a local development server, run:
-
-```bash
+```
 ng serve
 ```
+
+ثم اف
+
+---
+
+##  Build
+
+```
+ng build
+```
+
+---
+
+##  Description
+
+Projet Angular généré avec Angular CLI v21.2.3.
+Application de gestion des tâches (Task Manager).
+
 
 
 
