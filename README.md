@@ -1,4 +1,4 @@
-# Angular Project (TaskManager)
+# Angular_2
 
 ##  Development server
 
@@ -6,8 +6,7 @@
 ng serve
 ```
 
-ثم اف
-
+ثم
 ---
 
 ##  Build
