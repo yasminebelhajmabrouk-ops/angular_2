@@ -2,20 +2,13 @@
 
 ##  Development server
 
-```
 ng serve
-```
 
-ثم
----
 
 ##  Build
 
-```
 ng build
-```
 
----
 
 ##  Description
 
